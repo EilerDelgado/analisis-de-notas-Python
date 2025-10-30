@@ -6,7 +6,7 @@ import os
 # --- Constantes y Configuración ---
 COLUMNAS_NOTAS = ['nota1', 'nota2', 'nota3']
 OUTPUT_IMAGE = 'promedios_curso_hu01.png'
-CSV_FILE = 'data-generada.csv'
+CSV_FILE = '../data/data-generada.csv'
 
 
 def calcular_y_graficar_promedios_hu01(csv_path):
