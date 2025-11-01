@@ -12,6 +12,7 @@ def generar_histograma_notas(csv_path):
     """
     print(f"---  Generación de Histograma de Notas Finales (HU07) ---")
 
+
     try:
         df = pd.read_csv(csv_path)
         print(f" Archivo '{csv_path}' leído exitosamente.")
