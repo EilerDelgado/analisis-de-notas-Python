@@ -59,3 +59,7 @@ def main():
     generar_histograma_notas(CSV_FILE)
 if __name__ == "__main__":
     main()
+
+
+
+
